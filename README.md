@@ -18,6 +18,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+
+[![PlutoOwner's github stats](https://github-readme-stats.vercel.app/api?username=PlutoOwner&show_icons=true&theme=radical&count_private=true)](https://github.com/PlutoOwner)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoOwner&layout=compact&theme=radical)](https://github.com/PlutoOwner)
 
