@@ -1,8 +1,38 @@
-### Selam 👋
+<p align="center">
+  <a align="center"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Hoşgeldiniz+GitHub+Profilime!;I'm+a+competitive+programmer;I'm+a+Python+developer" /></a>
+</p>
+<p>Hoşgeldiniz, Python'da projeler oluşturuyorum.</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<ul>
+  <li>👋Merhaba, ben @PlutoOwner</li>
+  <li>❤️Python'da botlar yapılır.</li>
+</ul>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-000?style=quare&labelColor=000&logo=Instagram&logoColor=white&link=https://instagram.com/ama_hocaam?igshid=YmMyMTA2M2Y=)](https://instagram.com/ama_hocaam?igshid=YmMyMTA2M2Y=)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/PlutoOwner)](https://t.me/PlutoOwner)
+#### A little more about me
+```python
+class Moon():
+    
+  def __init__(self):
+    self.name = "Moon";
+    self.username = "PlutoOwner";
+    self.location = "Türkiye";
 
-[![spotify-github-profile](https://open.spotify.com/user/31y2eywbhktammczdphcggozvx5q)]([https://open.spotify.com/user/i278g9oqpyy68ogf8m3no8rcs?si=723cc2e2199a423c](https://open.spotify.com/user/31y2eywbhktammczdphcggozvx5q)https://open.spotify.com/user/31y2eywbhktammczdphcggozvx5q)
+    
+  def __str__(self):
+    return self.name
+    
+if __name__ == '__main__':
+    me = Moon()
+````
 
+<br><br>
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/PlutoOwner">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maybeslow&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maybeslow&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
