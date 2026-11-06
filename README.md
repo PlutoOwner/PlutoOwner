@@ -112,5 +112,5 @@ if __name__ == "__main__":
 </p>
 
 <p align="center">
-  <i>“Hayatta en hakiki mürşit ilimdir.” — Mustafa Kemal Atatürk</i>
+  <i>“3 günlük hayat dediler 365 gün kitlediler haydaaa</i>
 </p>
