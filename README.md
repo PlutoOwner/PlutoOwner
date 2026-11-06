@@ -112,5 +112,5 @@ if __name__ == "__main__":
 </p>
 
 <p align="center">
-  <i>“3 günlük hayat dediler 365 gün kitlediler haydaaa</i>
+  <i>“3 günlük hayat dediler 365 gün kitlediler haydaaa"</i>
 </p>
